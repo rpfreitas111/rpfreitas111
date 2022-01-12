@@ -25,4 +25,5 @@ Olá, eu sou Rodrigo Freitas e atualmente estou em uma grande jornada de aprendi
 
 </div>
 
+
 ![Snake animation](https://github.com//rpfreitas111/rpfreitas111/blob/output/github-contribution-grid-snake.svg)
