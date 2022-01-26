@@ -17,7 +17,8 @@ Olá, eu sou Rodrigo Freitas e atualmente estou em uma grande jornada de aprendi
   <img align="center" alt="Terraform" height="50" width="60" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">   
   <img align="center" alt="Ansible" height="70" width="80" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">                                       
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">                                                                                                                                                   
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">   
+  <img align="center" alt="Git" height="40" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Floft.sh%2Fblog%2Fkubernetes-dashboards-lens%2F&psig=AOvVaw2DvrSZaqQvELYDh-a_qdkW&ust=1643282798969000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDgp8-nz_UCFQAAAAAdAAAAABAD">                                                                                               
 </div>
                                                                                                                                                       <div> 
  <a href = "mailto:rodrigo.freitas111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
