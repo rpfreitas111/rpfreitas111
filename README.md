@@ -8,6 +8,7 @@ Olá, eu sou Rodrigo Freitas e atualmente estou em uma grande jornada de aprendi
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="azure devops" height="50" width="60" src="http://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg">
   <img align="center" alt="GCP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="DigOcean" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
