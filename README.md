@@ -20,7 +20,7 @@ Olá, eu sou Rodrigo Freitas e atualmente estou em uma grande jornada de aprendi
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">   
   <img align="center" alt="lens" height="40" width="50" src="https://loft.sh/blog/images/content/lens-logo.png">      
-  <img align="center" alt="Elastic" height="40" width="50" src="[https://loft.sh/blog/images/content/lens-logo.png](https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg)">
+  <img align="center" alt="Elastic" height="40" width="50" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg">
 </div>
                                                                                                                                                       <div> 
  <a href = "mailto:rodrigo.freitas111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
